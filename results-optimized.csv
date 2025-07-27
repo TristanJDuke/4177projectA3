@@ -1,0 +1,541 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1753567685041,22880,Homepage,200,OK,Moderate Load 2-7,text,true,,90925,119,26,36,http://localhost:3000/,11399,0,1
+1753567687437,20480,Homepage,200,OK,Moderate Load 2-9,text,true,,90874,119,26,36,http://localhost:3000/,9009,0,1
+1753567691039,16865,Homepage,200,OK,Moderate Load 2-12,text,true,,90925,119,26,36,http://localhost:3000/,5414,0,1
+1753567689812,18101,Homepage,200,OK,Light Load 1-5,text,true,,90925,119,10,36,http://localhost:3000/,6638,0,0
+1753567677962,29961,Homepage,200,OK,Light Load 1-1,text,true,,90925,119,10,36,http://localhost:3000/,18493,0,41
+1753567679036,28891,Homepage,200,OK,Moderate Load 2-2,text,true,,90925,119,26,36,http://localhost:3000/,17394,0,0
+1753567681433,26497,Homepage,200,OK,Moderate Load 2-4,text,true,,90925,119,26,36,http://localhost:3000/,14997,0,1
+1753567680234,27699,Homepage,200,OK,Moderate Load 2-3,text,true,,90925,119,26,36,http://localhost:3000/,16196,0,1
+1753567682635,25302,Homepage,200,OK,Moderate Load 2-5,text,true,,90925,119,26,36,http://localhost:3000/,13797,0,1
+1753567680842,27098,Homepage,200,OK,Light Load 1-2,text,true,,90680,119,10,36,http://localhost:3000/,15588,0,2
+1753567686229,21716,Homepage,200,OK,Moderate Load 2-8,text,true,,90925,119,26,36,http://localhost:3000/,10214,0,1
+1753567683812,24136,Homepage,200,OK,Light Load 1-3,text,true,,90925,119,10,36,http://localhost:3000/,12626,0,1
+1753567688626,19326,Homepage,200,OK,Moderate Load 2-10,text,true,,90925,119,26,36,http://localhost:3000/,7822,0,1
+1753567692226,15729,Homepage,200,OK,Moderate Load 2-13,text,true,,90925,119,26,36,http://localhost:3000/,4229,0,1
+1753567689839,18119,Homepage,200,OK,Moderate Load 2-11,text,true,,90925,119,26,36,http://localhost:3000/,6613,0,1
+1753567683835,24127,Homepage,200,OK,Moderate Load 2-6,text,true,,90537,119,26,36,http://localhost:3000/,12601,0,1
+1753567686833,21136,Homepage,200,OK,Light Load 1-4,text,true,,90933,119,10,36,http://localhost:3000/,9612,0,2
+1753567677962,30010,Homepage,200,OK,Moderate Load 2-1,text,true,,90739,119,26,36,http://localhost:3000/,18467,0,41
+1753567708437,3886,API - Products,404,Not Found,Moderate Load 2-9,text,false,,21695,131,30,40,http://localhost:3000/api/products,3841,0,0
+1753567708437,3895,API - Products,404,Not Found,Moderate Load 2-12,text,false,,21695,131,30,40,http://localhost:3000/api/products,3843,0,0
+1753567708437,3903,API - Products,404,Not Found,Light Load 1-1,text,false,,21695,131,10,40,http://localhost:3000/api/products,3845,0,0
+1753567708437,3909,API - Products,404,Not Found,Moderate Load 2-2,text,false,,21695,131,30,40,http://localhost:3000/api/products,3846,0,0
+1753567708437,3916,API - Products,404,Not Found,Moderate Load 2-7,text,false,,21695,131,30,40,http://localhost:3000/api/products,3848,0,0
+1753567708437,3924,API - Products,404,Not Found,Moderate Load 2-4,text,false,,21695,131,30,40,http://localhost:3000/api/products,3851,0,0
+1753567708437,3929,API - Products,404,Not Found,Light Load 1-5,text,false,,21695,131,10,40,http://localhost:3000/api/products,3855,0,0
+1753567708437,3942,API - Products,404,Not Found,Moderate Load 2-5,text,false,,21695,131,30,40,http://localhost:3000/api/products,3858,0,0
+1753567708437,3950,API - Products,404,Not Found,Moderate Load 2-3,text,false,,21695,131,30,40,http://localhost:3000/api/products,3859,0,0
+1753567708452,3942,API - Products,404,Not Found,Light Load 1-3,text,false,,21695,131,10,40,http://localhost:3000/api/products,3846,0,0
+1753567708452,3950,API - Products,404,Not Found,Moderate Load 2-10,text,false,,21695,131,30,40,http://localhost:3000/api/products,3848,0,0
+1753567708452,3958,API - Products,404,Not Found,Moderate Load 2-8,text,false,,21695,131,30,40,http://localhost:3000/api/products,3850,0,0
+1753567708452,3964,API - Products,404,Not Found,Light Load 1-2,text,false,,21695,131,10,40,http://localhost:3000/api/products,3853,0,0
+1753567708468,3956,API - Products,404,Not Found,Moderate Load 2-11,text,false,,21695,131,30,40,http://localhost:3000/api/products,3840,0,0
+1753567708468,3962,API - Products,404,Not Found,Moderate Load 2-6,text,false,,21695,131,30,40,http://localhost:3000/api/products,3843,0,0
+1753567708468,3968,API - Products,404,Not Found,Moderate Load 2-13,text,false,,21695,131,30,40,http://localhost:3000/api/products,3845,0,0
+1753567708482,3961,API - Products,404,Not Found,Light Load 1-4,text,false,,21695,131,10,40,http://localhost:3000/api/products,3833,0,0
+1753567708482,3966,API - Products,404,Not Found,Moderate Load 2-1,text,false,,21695,131,30,40,http://localhost:3000/api/products,3836,0,0
+1753567712840,1883,Main Bundle,404,Not Found,Light Load 1-1,text,false,,21704,136,10,42,http://localhost:3000/static/js/main.js,1834,0,0
+1753567712840,1889,Main Bundle,404,Not Found,Moderate Load 2-12,text,false,,21704,136,32,41,http://localhost:3000/static/js/main.js,1837,0,0
+1753567712840,1893,Main Bundle,404,Not Found,Moderate Load 2-9,text,false,,21704,136,31,40,http://localhost:3000/static/js/main.js,1839,0,0
+1753567712856,1883,Main Bundle,404,Not Found,Moderate Load 2-7,text,false,,21704,136,30,39,http://localhost:3000/static/js/main.js,1825,0,0
+1753567712856,1890,Main Bundle,404,Not Found,Moderate Load 2-2,text,false,,21704,136,29,38,http://localhost:3000/static/js/main.js,1828,0,0
+1753567712872,1878,Main Bundle,404,Not Found,Light Load 1-5,text,false,,21704,136,9,37,http://localhost:3000/static/js/main.js,1814,0,0
+1753567712872,1885,Main Bundle,404,Not Found,Moderate Load 2-4,text,false,,21704,136,28,36,http://localhost:3000/static/js/main.js,1816,0,0
+1753567712887,1874,Main Bundle,404,Not Found,Moderate Load 2-5,text,false,,21704,136,27,35,http://localhost:3000/static/js/main.js,1804,0,0
+1753567712887,1878,Main Bundle,404,Not Found,Moderate Load 2-3,text,false,,21704,136,26,34,http://localhost:3000/static/js/main.js,1807,0,0
+1753567712902,1871,Main Bundle,404,Not Found,Light Load 1-3,text,false,,21704,136,8,33,http://localhost:3000/static/js/main.js,1794,0,0
+1753567712917,1861,Main Bundle,404,Not Found,Light Load 1-2,text,false,,21704,136,7,32,http://localhost:3000/static/js/main.js,1782,0,0
+1753567712917,1866,Main Bundle,404,Not Found,Moderate Load 2-10,text,false,,21704,136,25,31,http://localhost:3000/static/js/main.js,1784,0,0
+1753567712917,1872,Main Bundle,404,Not Found,Moderate Load 2-8,text,false,,21704,136,24,30,http://localhost:3000/static/js/main.js,1787,0,0
+1753567712933,1862,Main Bundle,404,Not Found,Moderate Load 2-11,text,false,,21704,136,23,29,http://localhost:3000/static/js/main.js,1774,0,0
+1753567712933,1870,Main Bundle,404,Not Found,Moderate Load 2-6,text,false,,21704,136,22,28,http://localhost:3000/static/js/main.js,1776,0,0
+1753567712949,1859,Main Bundle,404,Not Found,Moderate Load 2-1,text,false,,21704,136,21,27,http://localhost:3000/static/js/main.js,1764,0,0
+1753567712949,1870,Main Bundle,404,Not Found,Light Load 1-4,text,false,,21704,136,6,26,http://localhost:3000/static/js/main.js,1766,0,0
+1753567712949,1878,Main Bundle,404,Not Found,Moderate Load 2-13,text,false,,21704,136,20,25,http://localhost:3000/static/js/main.js,1769,0,0
+1753567703034,14723,Homepage,200,OK,Moderate Load 2-22,text,true,,90925,119,21,26,http://localhost:3000/,147,0,1
+1753567701811,15949,Homepage,200,OK,Light Load 1-9,text,true,,90925,119,5,26,http://localhost:3000/,152,0,1
+1753567694630,23133,Homepage,200,OK,Moderate Load 2-15,text,true,,90925,119,21,26,http://localhost:3000/,3175,0,1
+1753567699439,18326,Homepage,200,OK,Moderate Load 2-19,text,true,,90925,119,21,26,http://localhost:3000/,145,0,2
+1753567701828,15939,Homepage,200,OK,Moderate Load 2-21,text,true,,90925,119,21,26,http://localhost:3000/,294,0,1
+1753567695843,21927,Homepage,200,OK,Moderate Load 2-16,text,true,,90925,119,21,26,http://localhost:3000/,1964,0,1
+1753567704225,13547,Homepage,200,OK,Moderate Load 2-23,text,true,,90925,119,21,26,http://localhost:3000/,152,0,1
+1753567698227,19551,Homepage,200,OK,Moderate Load 2-18,text,true,,90925,119,21,26,http://localhost:3000/,140,0,1
+1753567700634,17148,Homepage,200,OK,Moderate Load 2-20,text,true,,90925,119,21,26,http://localhost:3000/,149,0,1
+1753567692814,24970,Homepage,200,OK,Light Load 1-6,text,true,,90537,119,5,26,http://localhost:3000/,4989,0,1
+1753567697031,20759,Homepage,200,OK,Moderate Load 2-17,text,true,,90933,119,21,26,http://localhost:3000/,1006,0,5
+1753567695813,21980,Homepage,200,OK,Light Load 1-7,text,true,,90933,119,5,26,http://localhost:3000/,1993,0,1
+1753567698817,18978,Homepage,200,OK,Light Load 1-8,text,true,,90933,119,5,26,http://localhost:3000/,133,0,1
+1753567693431,24366,Homepage,200,OK,Moderate Load 2-14,text,true,,90739,119,21,26,http://localhost:3000/,4370,0,1
+1753567718264,302,API - Products,404,Not Found,Moderate Load 2-15,text,false,,21695,131,22,27,http://localhost:3000/api/products,293,0,0
+1753567718264,307,API - Products,404,Not Found,Light Load 1-9,text,false,,21695,131,5,27,http://localhost:3000/api/products,296,0,0
+1753567718264,310,API - Products,404,Not Found,Moderate Load 2-22,text,false,,21695,131,22,27,http://localhost:3000/api/products,298,0,0
+1753567718280,1343,API - Products,404,Not Found,Moderate Load 2-18,text,false,,21695,131,23,28,http://localhost:3000/api/products,1314,0,0
+1753567718280,1349,API - Products,404,Not Found,Moderate Load 2-21,text,false,,21695,131,23,28,http://localhost:3000/api/products,1316,0,0
+1753567718280,1353,API - Products,404,Not Found,Moderate Load 2-16,text,false,,21695,131,23,28,http://localhost:3000/api/products,1318,0,0
+1753567718280,1359,API - Products,404,Not Found,Moderate Load 2-23,text,false,,21695,131,23,28,http://localhost:3000/api/products,1320,0,0
+1753567718280,1364,API - Products,404,Not Found,Moderate Load 2-19,text,false,,21695,131,23,28,http://localhost:3000/api/products,1322,0,0
+1753567718296,1352,API - Products,404,Not Found,Moderate Load 2-20,text,false,,21695,131,23,28,http://localhost:3000/api/products,1309,0,0
+1753567718296,1356,API - Products,404,Not Found,Moderate Load 2-17,text,false,,21695,131,23,28,http://localhost:3000/api/products,1311,0,0
+1753567718296,1363,API - Products,404,Not Found,Light Load 1-6,text,false,,21695,131,5,28,http://localhost:3000/api/products,1313,0,0
+1753567718296,1371,API - Products,404,Not Found,Light Load 1-7,text,false,,21695,131,5,28,http://localhost:3000/api/products,1315,0,0
+1753567718311,1361,API - Products,404,Not Found,Moderate Load 2-14,text,false,,21695,131,23,28,http://localhost:3000/api/products,1302,0,0
+1753567718311,1367,API - Products,404,Not Found,Light Load 1-8,text,false,,21695,131,5,28,http://localhost:3000/api/products,1305,0,0
+1753567719066,924,Main Bundle,404,Not Found,Moderate Load 2-15,text,false,,21704,136,23,28,http://localhost:3000/static/js/main.js,917,0,0
+1753567719071,924,Main Bundle,404,Not Found,Light Load 1-9,text,false,,21704,136,5,27,http://localhost:3000/static/js/main.js,914,0,0
+1753567719076,922,Main Bundle,404,Not Found,Moderate Load 2-22,text,false,,21704,136,22,26,http://localhost:3000/static/js/main.js,911,0,0
+1753567720140,1291,Main Bundle,404,Not Found,Moderate Load 2-23,text,false,,21704,136,22,26,http://localhost:3000/static/js/main.js,1270,0,0
+1753567720125,1310,Main Bundle,404,Not Found,Moderate Load 2-18,text,false,,21704,136,21,25,http://localhost:3000/static/js/main.js,1287,0,0
+1753567720140,1299,Main Bundle,404,Not Found,Moderate Load 2-16,text,false,,21704,136,20,24,http://localhost:3000/static/js/main.js,1274,0,0
+1753567720140,1308,Main Bundle,404,Not Found,Moderate Load 2-21,text,false,,21704,136,19,23,http://localhost:3000/static/js/main.js,1275,0,0
+1753567720156,1301,Main Bundle,404,Not Found,Moderate Load 2-19,text,false,,21704,136,18,22,http://localhost:3000/static/js/main.js,1261,0,0
+1753567720156,1307,Main Bundle,404,Not Found,Moderate Load 2-17,text,false,,21704,136,17,21,http://localhost:3000/static/js/main.js,1262,0,0
+1753567720156,1315,Main Bundle,404,Not Found,Moderate Load 2-20,text,false,,21704,136,16,20,http://localhost:3000/static/js/main.js,1264,0,0
+1753567720172,1304,Main Bundle,404,Not Found,Light Load 1-6,text,false,,21704,136,4,19,http://localhost:3000/static/js/main.js,1250,0,0
+1753567720172,1309,Main Bundle,404,Not Found,Light Load 1-7,text,false,,21704,136,3,18,http://localhost:3000/static/js/main.js,1252,0,0
+1753567720187,1300,Main Bundle,404,Not Found,Light Load 1-8,text,false,,21704,136,2,17,http://localhost:3000/static/js/main.js,1239,0,0
+1753567720187,1305,Main Bundle,404,Not Found,Moderate Load 2-14,text,false,,21704,136,15,16,http://localhost:3000/static/js/main.js,1241,0,0
+1753567705424,22328,Homepage,200,OK,Moderate Load 2-24,text,true,,90925,119,20,21,http://localhost:3000/,143,0,2
+1753567710228,17526,Homepage,200,OK,Moderate Load 2-28,text,true,,90925,119,20,21,http://localhost:3000/,2875,0,1
+1753567706626,21131,Homepage,200,OK,Moderate Load 2-25,text,true,,90925,119,20,21,http://localhost:3000/,143,0,1
+1753567704824,22939,Homepage,200,OK,Light Load 1-10,text,true,,90925,119,1,21,http://localhost:3000/,157,0,2
+1753567707829,19942,Homepage,200,OK,Moderate Load 2-26,text,true,,90933,119,20,21,http://localhost:3000/,307,0,1
+1753567711434,16342,Homepage,200,OK,Moderate Load 2-29,text,true,,90933,119,20,21,http://localhost:3000/,1671,0,2
+1753567709037,18742,Homepage,200,OK,Moderate Load 2-27,text,true,,90739,119,20,21,http://localhost:3000/,468,0,2
+1753567728267,678,API - Products,404,Not Found,Moderate Load 2-28,text,false,,21695,131,21,22,http://localhost:3000/api/products,665,0,0
+1753567728267,682,API - Products,404,Not Found,Moderate Load 2-25,text,false,,21695,131,21,22,http://localhost:3000/api/products,666,0,0
+1753567728267,686,API - Products,404,Not Found,Light Load 1-10,text,false,,21695,131,1,22,http://localhost:3000/api/products,668,0,0
+1753567728282,675,API - Products,404,Not Found,Moderate Load 2-27,text,false,,21695,131,21,22,http://localhost:3000/api/products,654,0,0
+1753567728267,696,API - Products,404,Not Found,Moderate Load 2-24,text,false,,21695,131,21,22,http://localhost:3000/api/products,671,0,0
+1753567728282,691,API - Products,404,Not Found,Moderate Load 2-26,text,false,,21695,131,21,22,http://localhost:3000/api/products,658,0,0
+1753567728282,696,API - Products,404,Not Found,Moderate Load 2-29,text,false,,21695,131,21,22,http://localhost:3000/api/products,660,0,0
+1753567729463,688,Main Bundle,404,Not Found,Moderate Load 2-27,text,false,,21704,136,22,23,http://localhost:3000/static/js/main.js,675,0,0
+1753567729448,707,Main Bundle,404,Not Found,Moderate Load 2-28,text,false,,21704,136,21,22,http://localhost:3000/static/js/main.js,691,0,0
+1753567729463,696,Main Bundle,404,Not Found,Moderate Load 2-25,text,false,,21704,136,20,21,http://localhost:3000/static/js/main.js,678,0,0
+1753567729463,700,Main Bundle,404,Not Found,Light Load 1-10,text,false,,21704,136,1,20,http://localhost:3000/static/js/main.js,680,0,0
+1753567729463,704,Main Bundle,404,Not Found,Moderate Load 2-24,text,false,,21704,136,19,19,http://localhost:3000/static/js/main.js,682,0,0
+1753567729479,693,Main Bundle,404,Not Found,Moderate Load 2-26,text,false,,21704,136,18,18,http://localhost:3000/static/js/main.js,667,0,0
+1753567729479,696,Main Bundle,404,Not Found,Moderate Load 2-29,text,false,,21704,136,17,17,http://localhost:3000/static/js/main.js,669,0,0
+1753567712625,25239,Homepage,200,OK,Moderate Load 2-30,text,true,,90925,119,21,21,http://localhost:3000/,2379,0,2
+1753567721037,16829,Homepage,200,OK,Moderate Load 2-37,text,true,,90925,119,21,21,http://localhost:3000/,641,0,1
+1753567722235,15633,Homepage,200,OK,Moderate Load 2-38,text,true,,90925,119,21,21,http://localhost:3000/,174,0,1
+1753567716239,21631,Homepage,200,OK,Moderate Load 2-33,text,true,,90925,119,21,21,http://localhost:3000/,185,0,2
+1753567715030,22844,Homepage,200,OK,Moderate Load 2-32,text,true,,90925,119,21,21,http://localhost:3000/,346,0,2
+1753567718636,19241,Homepage,200,OK,Moderate Load 2-35,text,true,,90925,119,21,21,http://localhost:3000/,1544,0,1
+1753567717432,20450,Homepage,200,OK,Moderate Load 2-34,text,true,,90739,119,21,21,http://localhost:3000/,544,0,1
+1753567723426,14457,Homepage,200,OK,Moderate Load 2-39,text,true,,90680,119,21,21,http://localhost:3000/,166,0,1
+1753567719835,18051,Homepage,200,OK,Moderate Load 2-36,text,true,,90933,119,21,21,http://localhost:3000/,567,0,1
+1753567713827,24062,Homepage,200,OK,Moderate Load 2-31,text,true,,90739,119,21,21,http://localhost:3000/,1364,0,1
+1753567738369,181,API - Products,404,Not Found,Moderate Load 2-30,text,false,,21695,131,21,21,http://localhost:3000/api/products,176,0,0
+1753567738369,185,API - Products,404,Not Found,Moderate Load 2-37,text,false,,21695,131,21,21,http://localhost:3000/api/products,178,0,0
+1753567738384,900,API - Products,404,Not Found,Moderate Load 2-32,text,false,,21695,131,21,21,http://localhost:3000/api/products,883,0,0
+1753567738384,905,API - Products,404,Not Found,Moderate Load 2-33,text,false,,21695,131,21,21,http://localhost:3000/api/products,885,0,0
+1753567738384,908,API - Products,404,Not Found,Moderate Load 2-35,text,false,,21695,131,21,21,http://localhost:3000/api/products,887,0,0
+1753567738384,913,API - Products,404,Not Found,Moderate Load 2-38,text,false,,21695,131,21,21,http://localhost:3000/api/products,888,0,0
+1753567738384,916,API - Products,404,Not Found,Moderate Load 2-34,text,false,,21695,131,21,21,http://localhost:3000/api/products,889,0,0
+1753567738400,904,API - Products,404,Not Found,Moderate Load 2-39,text,false,,21695,131,21,21,http://localhost:3000/api/products,875,0,0
+1753567738400,907,API - Products,404,Not Found,Moderate Load 2-31,text,false,,21695,131,21,21,http://localhost:3000/api/products,877,0,0
+1753567738400,911,API - Products,404,Not Found,Moderate Load 2-36,text,false,,21695,131,21,21,http://localhost:3000/api/products,879,0,0
+1753567739053,452,Main Bundle,404,Not Found,Moderate Load 2-30,text,false,,21704,136,21,21,http://localhost:3000/static/js/main.js,447,0,0
+1753567739068,441,Main Bundle,404,Not Found,Moderate Load 2-37,text,false,,21704,136,20,20,http://localhost:3000/static/js/main.js,434,0,0
+1753567739796,260,Main Bundle,404,Not Found,Moderate Load 2-35,text,false,,21704,136,19,19,http://localhost:3000/static/js/main.js,251,0,0
+1753567739796,265,Main Bundle,404,Not Found,Moderate Load 2-33,text,false,,21704,136,18,18,http://localhost:3000/static/js/main.js,253,0,0
+1753567739796,269,Main Bundle,404,Not Found,Moderate Load 2-32,text,false,,21704,136,17,17,http://localhost:3000/static/js/main.js,254,0,0
+1753567739812,626,Main Bundle,404,Not Found,Moderate Load 2-34,text,false,,21704,136,16,16,http://localhost:3000/static/js/main.js,618,0,0
+1753567739812,630,Main Bundle,404,Not Found,Moderate Load 2-39,text,false,,21704,136,15,15,http://localhost:3000/static/js/main.js,619,0,0
+1753567739812,634,Main Bundle,404,Not Found,Moderate Load 2-31,text,false,,21704,136,14,14,http://localhost:3000/static/js/main.js,621,0,0
+1753567739812,638,Main Bundle,404,Not Found,Moderate Load 2-36,text,false,,21704,136,13,13,http://localhost:3000/static/js/main.js,622,0,0
+1753567739812,641,Main Bundle,404,Not Found,Moderate Load 2-38,text,false,,21704,136,12,12,http://localhost:3000/static/js/main.js,623,0,0
+1753567730633,16971,Homepage,200,OK,Moderate Load 2-45,text,true,,90925,119,11,11,http://localhost:3000/,147,0,1
+1753567725826,21782,Homepage,200,OK,Moderate Load 2-41,text,true,,90925,119,11,11,http://localhost:3000/,156,0,1
+1753567724633,22978,Homepage,200,OK,Moderate Load 2-40,text,true,,90925,119,11,11,http://localhost:3000/,173,0,1
+1753567734233,13382,Homepage,200,OK,Moderate Load 2-48,text,true,,90925,119,11,11,http://localhost:3000/,147,0,1
+1753567727035,20583,Homepage,200,OK,Moderate Load 2-42,text,true,,90925,119,11,11,http://localhost:3000/,198,0,1
+1753567731835,15786,Homepage,200,OK,Moderate Load 2-46,text,true,,90537,119,11,11,http://localhost:3000/,155,0,1
+1753567733026,14598,Homepage,200,OK,Moderate Load 2-47,text,true,,90933,119,11,11,http://localhost:3000/,160,0,1
+1753567728236,19391,Homepage,200,OK,Moderate Load 2-43,text,true,,90933,119,11,11,http://localhost:3000/,160,0,2
+1753567729433,18196,Homepage,200,OK,Moderate Load 2-44,text,true,,90739,119,11,11,http://localhost:3000/,164,0,1
+1753567748112,247,API - Products,404,Not Found,Moderate Load 2-41,text,false,,21695,131,11,11,http://localhost:3000/api/products,241,0,0
+1753567748112,252,API - Products,404,Not Found,Moderate Load 2-45,text,false,,21695,131,11,11,http://localhost:3000/api/products,242,0,0
+1753567748113,254,API - Products,404,Not Found,Moderate Load 2-40,text,false,,21695,131,11,11,http://localhost:3000/api/products,242,0,0
+1753567748128,667,API - Products,404,Not Found,Moderate Load 2-44,text,false,,21695,131,11,11,http://localhost:3000/api/products,657,0,0
+1753567748128,671,API - Products,404,Not Found,Moderate Load 2-46,text,false,,21695,131,11,11,http://localhost:3000/api/products,659,0,0
+1753567748128,674,API - Products,404,Not Found,Moderate Load 2-42,text,false,,21695,131,11,11,http://localhost:3000/api/products,660,0,0
+1753567748128,679,API - Products,404,Not Found,Moderate Load 2-43,text,false,,21695,131,11,11,http://localhost:3000/api/products,662,0,0
+1753567748128,683,API - Products,404,Not Found,Moderate Load 2-47,text,false,,21695,131,11,11,http://localhost:3000/api/products,663,0,0
+1753567748128,687,API - Products,404,Not Found,Moderate Load 2-48,text,false,,21695,131,11,11,http://localhost:3000/api/products,665,0,0
+1753567748860,84,Main Bundle,404,Not Found,Moderate Load 2-41,text,false,,21704,136,11,11,http://localhost:3000/static/js/main.js,81,0,0
+1753567748875,237,Main Bundle,404,Not Found,Moderate Load 2-45,text,false,,21704,136,10,10,http://localhost:3000/static/js/main.js,231,0,0
+1753567748875,241,Main Bundle,404,Not Found,Moderate Load 2-40,text,false,,21704,136,9,9,http://localhost:3000/static/js/main.js,233,0,0
+1753567749295,91,Main Bundle,404,Not Found,Moderate Load 2-44,text,false,,21704,136,8,8,http://localhost:3000/static/js/main.js,88,0,0
+1753567749312,477,Main Bundle,404,Not Found,Moderate Load 2-47,text,false,,21704,136,7,7,http://localhost:3000/static/js/main.js,469,0,0
+1753567749312,482,Main Bundle,404,Not Found,Moderate Load 2-42,text,false,,21704,136,6,6,http://localhost:3000/static/js/main.js,471,0,0
+1753567749312,486,Main Bundle,404,Not Found,Moderate Load 2-43,text,false,,21704,136,5,5,http://localhost:3000/static/js/main.js,472,0,0
+1753567749312,490,Main Bundle,404,Not Found,Moderate Load 2-46,text,false,,21704,136,4,4,http://localhost:3000/static/js/main.js,474,0,0
+1753567749327,478,Main Bundle,404,Not Found,Moderate Load 2-48,text,false,,21704,136,3,3,http://localhost:3000/static/js/main.js,460,0,0
+1753567735429,22084,Homepage,200,OK,Moderate Load 2-49,text,true,,90545,119,2,2,http://localhost:3000/,142,0,1
+1753567736627,20888,Homepage,200,OK,Moderate Load 2-50,text,true,,90739,119,2,2,http://localhost:3000/,154,0,2
+1753567758019,164,API - Products,404,Not Found,Moderate Load 2-50,text,false,,21695,131,2,2,http://localhost:3000/api/products,161,0,0
+1753567758019,168,API - Products,404,Not Found,Moderate Load 2-49,text,false,,21695,131,2,2,http://localhost:3000/api/products,162,0,0
+1753567758690,193,Main Bundle,404,Not Found,Moderate Load 2-49,text,false,,21704,136,2,2,http://localhost:3000/static/js/main.js,188,0,0
+1753567758690,196,Main Bundle,404,Not Found,Moderate Load 2-50,text,false,,21704,136,1,1,http://localhost:3000/static/js/main.js,190,0,0
+1753649221234,11743,Homepage,500,Internal Server Error,Moderate Load 2-1,text,false,,20319,119,11,16,http://localhost:3000/,11261,0,37
+1753649222318,10672,Homepage,500,Internal Server Error,Moderate Load 2-2,text,false,,20319,119,11,16,http://localhost:3000/,10177,0,1
+1753649223500,9507,Homepage,500,Internal Server Error,Moderate Load 2-3,text,false,,20319,119,11,16,http://localhost:3000/,8995,0,1
+1753649224101,8919,Homepage,500,Internal Server Error,Light Load 1-2,text,false,,20319,119,5,16,http://localhost:3000/,8393,0,1
+1753649224710,8337,Homepage,500,Internal Server Error,Moderate Load 2-4,text,false,,20319,119,11,16,http://localhost:3000/,7785,0,1
+1753649225925,7131,Homepage,500,Internal Server Error,Moderate Load 2-5,text,false,,20319,119,11,16,http://localhost:3000/,6572,0,1
+1753649227105,5961,Homepage,500,Internal Server Error,Light Load 1-3,text,false,,20319,119,5,16,http://localhost:3000/,5395,0,1
+1753649227116,5957,Homepage,500,Internal Server Error,Moderate Load 2-6,text,false,,20319,119,11,16,http://localhost:3000/,5385,0,1
+1753649221234,11845,Homepage,500,Internal Server Error,Light Load 1-1,text,false,,20319,119,5,16,http://localhost:3000/,11269,0,37
+1753649230711,4875,Homepage,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,Moderate Load 2-9,text,false,,2441,0,13,18,http://localhost:3000/,0,0,1
+1753649233508,2078,API - Products,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,Moderate Load 2-1,text,false,,2441,0,13,18,http://localhost:3000/api/products,0,0,0
+1753649233508,2077,API - Products,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,Moderate Load 2-2,text,false,,2441,0,13,18,http://localhost:3000/api/products,0,0,0
+1753649233523,2062,API - Products,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,Light Load 1-2,text,false,,2441,0,5,18,http://localhost:3000/api/products,0,0,0
+1753649233585,2000,API - Products,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,Light Load 1-1,text,false,,2441,0,5,18,http://localhost:3000/api/products,0,0,0
+1753649233585,2000,API - Products,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,Moderate Load 2-6,text,false,,2441,0,13,18,http://localhost:3000/api/products,0,0,0
+1753649231905,3680,Homepage,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,Moderate Load 2-10,text,false,,2441,0,13,18,http://localhost:3000/,0,0,1
+1753649230101,5484,Homepage,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,Light Load 1-4,text,false,,2441,0,5,18,http://localhost:3000/,0,0,1
+1753649233523,2062,API - Products,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,Moderate Load 2-3,text,false,,2441,0,13,18,http://localhost:3000/api/products,0,0,0
+1753649233570,2016,API - Products,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,Moderate Load 2-5,text,false,,2441,0,13,18,http://localhost:3000/api/products,0,0,0
+1753649233554,2031,API - Products,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,Moderate Load 2-4,text,false,,2441,0,13,18,http://localhost:3000/api/products,0,0,0
+1753649233570,2018,API - Products,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,Light Load 1-3,text,false,,2441,0,5,18,http://localhost:3000/api/products,0,0,0
+1753649233092,2498,Homepage,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,Light Load 1-5,text,false,,2441,0,5,18,http://localhost:3000/,0,0,3
+1753649234307,1284,Homepage,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,Moderate Load 2-12,text,false,,2441,0,13,18,http://localhost:3000/,0,0,1
+1753649233107,2484,Homepage,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,Moderate Load 2-11,text,false,,2441,0,13,18,http://localhost:3000/,0,0,1
+1753649235503,89,Homepage,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,Moderate Load 2-13,text,false,,2441,0,13,19,http://localhost:3000/,0,0,1
+1753649228306,7289,Homepage,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,Moderate Load 2-7,text,false,,2441,0,13,19,http://localhost:3000/,0,0,1
+1753649229503,6093,Homepage,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,Moderate Load 2-8,text,false,,2441,0,13,19,http://localhost:3000/,0,0,1
+1753649236088,4061,API - Products,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Moderate Load 2-10,text,false,,2741,0,17,24,http://localhost:3000/api/products,0,0,4061
+1753649236088,4061,API - Products,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Moderate Load 2-9,text,false,,2741,0,17,24,http://localhost:3000/api/products,0,0,4061
+1753649236089,4060,Main Bundle,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Moderate Load 2-5,text,false,,2741,0,17,24,http://localhost:3000/static/js/main.js,0,0,4060
+1753649236090,4075,Main Bundle,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Light Load 1-3,text,false,,2741,0,7,23,http://localhost:3000/static/js/main.js,0,0,4075
+1753649236089,4076,Main Bundle,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Moderate Load 2-4,text,false,,2741,0,16,23,http://localhost:3000/static/js/main.js,0,0,4076
+1753649236089,4076,Main Bundle,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Moderate Load 2-3,text,false,,2741,0,16,23,http://localhost:3000/static/js/main.js,0,0,4076
+1753649236088,4077,Main Bundle,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Light Load 1-1,text,false,,2741,0,7,23,http://localhost:3000/static/js/main.js,0,0,4077
+1753649236088,4077,Main Bundle,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Moderate Load 2-6,text,false,,2741,0,16,23,http://localhost:3000/static/js/main.js,0,0,4077
+1753649236088,4077,Main Bundle,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Moderate Load 2-1,text,false,,2741,0,16,23,http://localhost:3000/static/js/main.js,0,0,4077
+1753649236088,4077,Main Bundle,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Moderate Load 2-2,text,false,,2741,0,16,23,http://localhost:3000/static/js/main.js,0,0,4077
+1753649236088,4077,API - Products,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Light Load 1-4,text,false,,2741,0,7,23,http://localhost:3000/api/products,0,0,4077
+1753649236088,4077,Main Bundle,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Light Load 1-2,text,false,,2741,0,7,23,http://localhost:3000/static/js/main.js,0,0,4077
+1753649236108,4072,API - Products,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Moderate Load 2-7,text,false,,2741,0,11,15,http://localhost:3000/api/products,0,0,4072
+1753649236093,4088,API - Products,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Light Load 1-5,text,false,,2741,0,4,15,http://localhost:3000/api/products,0,0,4088
+1753649236094,4086,API - Products,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Moderate Load 2-12,text,false,,2741,0,11,15,http://localhost:3000/api/products,0,0,4086
+1753649236108,4072,API - Products,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Moderate Load 2-8,text,false,,2741,0,11,15,http://localhost:3000/api/products,0,0,4072
+1753649236093,4087,API - Products,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Moderate Load 2-11,text,false,,2741,0,11,15,http://localhost:3000/api/products,0,0,4087
+1753649236095,4086,Homepage,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Light Load 1-6,text,false,,2741,0,4,15,http://localhost:3000/,0,0,4085
+1753649236094,4087,API - Products,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Moderate Load 2-13,text,false,,2741,0,11,15,http://localhost:3000/api/products,0,0,4087
+1753649236703,4082,Homepage,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Moderate Load 2-14,text,false,,2741,0,11,15,http://localhost:3000/,0,0,4082
+1753649237914,4072,Homepage,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Moderate Load 2-15,text,false,,2741,0,12,17,http://localhost:3000/,0,0,4072
+1753649239092,4069,Homepage,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Light Load 1-7,text,false,,2741,0,5,18,http://localhost:3000/,0,0,4069
+1753649239105,4071,Homepage,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Moderate Load 2-16,text,false,,2741,0,13,18,http://localhost:3000/,0,0,4071
+1753649240307,4074,Homepage,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Moderate Load 2-17,text,false,,2741,0,14,19,http://localhost:3000/,0,0,4074
+1753649240660,4077,Main Bundle,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Moderate Load 2-9,text,false,,2741,0,15,21,http://localhost:3000/static/js/main.js,0,0,4077
+1753649240660,4077,Main Bundle,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Moderate Load 2-10,text,false,,2741,0,15,21,http://localhost:3000/static/js/main.js,0,0,4077
+1753649240676,4076,Main Bundle,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Light Load 1-4,text,false,,2741,0,6,19,http://localhost:3000/static/js/main.js,0,0,4076
+1753649240691,4076,Main Bundle,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Light Load 1-5,text,false,,2741,0,5,18,http://localhost:3000/static/js/main.js,0,0,4076
+1753649240691,4076,Main Bundle,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Moderate Load 2-12,text,false,,2741,0,13,18,http://localhost:3000/static/js/main.js,0,0,4076
+1753649240692,4075,Main Bundle,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Moderate Load 2-13,text,false,,2741,0,13,18,http://localhost:3000/static/js/main.js,0,0,4075
+1753649240691,4076,Main Bundle,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Moderate Load 2-8,text,false,,2741,0,13,18,http://localhost:3000/static/js/main.js,0,0,4076
+1753649240691,4076,API - Products,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Light Load 1-6,text,false,,2741,0,5,18,http://localhost:3000/api/products,0,0,4076
+1753649240691,4076,Main Bundle,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Moderate Load 2-7,text,false,,2741,0,13,18,http://localhost:3000/static/js/main.js,0,0,4076
+1753649240691,4076,Main Bundle,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Moderate Load 2-11,text,false,,2741,0,13,18,http://localhost:3000/static/js/main.js,0,0,4076
+1753649241286,4084,API - Products,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Moderate Load 2-14,text,false,,2741,0,8,12,http://localhost:3000/api/products,0,0,4084
+1753649241503,4083,Homepage,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Moderate Load 2-18,text,false,,2741,0,8,12,http://localhost:3000/,0,0,4083
+1753649242095,4081,Homepage,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Light Load 1-8,text,false,,2741,0,4,13,http://localhost:3000/,0,0,4081
+1753649242486,4078,API - Products,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Moderate Load 2-15,text,false,,2741,0,9,13,http://localhost:3000/api/products,0,0,4078
+1753649242712,4083,Homepage,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Moderate Load 2-19,text,false,,2741,0,9,13,http://localhost:3000/,0,0,4083
+1753649243662,4091,API - Products,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Light Load 1-7,text,false,,2741,0,5,15,http://localhost:3000/api/products,0,0,4091
+1753649243677,4091,API - Products,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Moderate Load 2-16,text,false,,2741,0,10,15,http://localhost:3000/api/products,0,0,4091
+1753649243902,4081,Homepage,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Moderate Load 2-20,text,false,,2741,0,10,15,http://localhost:3000/,0,0,4081
+1753649244882,4072,API - Products,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Moderate Load 2-17,text,false,,2741,0,11,16,http://localhost:3000/api/products,0,0,4072
+1753649245093,4077,Homepage,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Light Load 1-9,text,false,,2741,0,5,16,http://localhost:3000/,0,0,4076
+1753649245108,4077,Homepage,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Moderate Load 2-21,text,false,,2741,0,11,16,http://localhost:3000/,0,0,4077
+1753649245278,4077,Main Bundle,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Light Load 1-6,text,false,,2741,0,5,16,http://localhost:3000/static/js/main.js,0,0,4077
+1753649245879,4074,Main Bundle,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Moderate Load 2-14,text,false,,2741,0,12,16,http://localhost:3000/static/js/main.js,0,0,4074
+1753649246096,4073,API - Products,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Moderate Load 2-18,text,false,,2741,0,11,15,http://localhost:3000/api/products,0,0,4073
+1753649246317,4067,Homepage,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Moderate Load 2-22,text,false,,2741,0,11,15,http://localhost:3000/,0,0,4067
+1753649246687,4072,API - Products,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Light Load 1-8,text,false,,2741,0,4,16,http://localhost:3000/api/products,0,0,4072
+1753649247074,4059,Main Bundle,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Moderate Load 2-15,text,false,,2741,0,12,16,http://localhost:3000/static/js/main.js,0,0,4059
+1753649247295,4071,API - Products,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Moderate Load 2-19,text,false,,2741,0,11,15,http://localhost:3000/api/products,0,0,4071
+1753649247501,4069,Homepage,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Moderate Load 2-23,text,false,,2741,0,11,15,http://localhost:3000/,0,0,4068
+1753649248092,4066,Homepage,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Light Load 1-10,text,false,,2741,0,4,16,http://localhost:3000/,0,0,4066
+1753649248268,4076,Main Bundle,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Moderate Load 2-16,text,false,,2741,0,12,16,http://localhost:3000/static/js/main.js,0,0,4076
+1753649248254,4090,Main Bundle,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Light Load 1-7,text,false,,2741,0,4,16,http://localhost:3000/static/js/main.js,0,0,4090
+1753649248483,4078,API - Products,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Moderate Load 2-20,text,false,,2741,0,11,14,http://localhost:3000/api/products,0,0,4078
+1753649248708,4084,Homepage,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Moderate Load 2-24,text,false,,2741,0,11,14,http://localhost:3000/,0,0,4084
+1753649249455,4096,Main Bundle,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Moderate Load 2-17,text,false,,2741,0,12,15,http://localhost:3000/static/js/main.js,0,0,4096
+1753649249669,4098,API - Products,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Light Load 1-9,text,false,,2741,0,3,14,http://localhost:3000/api/products,0,0,4098
+1753649249686,4097,API - Products,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Moderate Load 2-21,text,false,,2741,0,11,14,http://localhost:3000/api/products,0,0,4097
+1753649249906,4081,Homepage,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Moderate Load 2-25,text,false,,2741,0,11,14,http://localhost:3000/,0,0,4080
+1753649250672,4092,Main Bundle,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Moderate Load 2-18,text,false,,2741,0,12,15,http://localhost:3000/static/js/main.js,0,0,4092
+1753649250884,4097,API - Products,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Moderate Load 2-22,text,false,,2741,0,11,14,http://localhost:3000/api/products,0,0,4097
+1753649251102,4096,Homepage,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Moderate Load 2-26,text,false,,2741,0,11,14,http://localhost:3000/,0,0,4096
+1753649251270,4098,Main Bundle,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Light Load 1-8,text,false,,2741,0,3,14,http://localhost:3000/static/js/main.js,0,0,4098
+1753649251877,4096,Main Bundle,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Moderate Load 2-19,text,false,,2741,0,12,14,http://localhost:3000/static/js/main.js,0,0,4096
+1753649252078,4096,API - Products,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Moderate Load 2-23,text,false,,2741,0,11,13,http://localhost:3000/api/products,0,0,4096
+1753649252311,4098,Homepage,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Moderate Load 2-27,text,false,,2741,0,11,13,http://localhost:3000/,0,0,4098
+1753649252668,4096,API - Products,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Light Load 1-10,text,false,,2741,0,2,14,http://localhost:3000/api/products,0,0,4096
+1753649253073,4095,Main Bundle,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Moderate Load 2-20,text,false,,2741,0,12,14,http://localhost:3000/static/js/main.js,0,0,4095
+1753649253304,4097,API - Products,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Moderate Load 2-24,text,false,,2741,0,11,13,http://localhost:3000/api/products,0,0,4097
+1753649253521,4097,Homepage,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Moderate Load 2-28,text,false,,2741,0,11,13,http://localhost:3000/,0,0,4097
+1753649254267,4099,Main Bundle,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Light Load 1-9,text,false,,2741,0,2,14,http://localhost:3000/static/js/main.js,0,0,4099
+1753649254282,4099,Main Bundle,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Moderate Load 2-21,text,false,,2741,0,12,13,http://localhost:3000/static/js/main.js,0,0,4099
+1753649254486,4096,API - Products,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Moderate Load 2-25,text,false,,2741,0,11,12,http://localhost:3000/api/products,0,0,4096
+1753649254701,4099,Homepage,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Moderate Load 2-29,text,false,,2741,0,11,12,http://localhost:3000/,0,0,4099
+1753649255481,4099,Main Bundle,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Moderate Load 2-22,text,false,,2741,0,12,13,http://localhost:3000/static/js/main.js,0,0,4099
+1753649255698,4100,API - Products,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Moderate Load 2-26,text,false,,2741,0,11,12,http://localhost:3000/api/products,0,0,4100
+1753649255912,4087,Homepage,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Moderate Load 2-30,text,false,,2741,0,11,12,http://localhost:3000/,0,0,4087
+1753649256674,4086,Main Bundle,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Moderate Load 2-23,text,false,,2741,0,12,13,http://localhost:3000/static/js/main.js,0,0,4086
+1753649256909,4100,API - Products,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Moderate Load 2-27,text,false,,2741,0,11,12,http://localhost:3000/api/products,0,0,4100
+1753649257106,4104,Homepage,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Moderate Load 2-31,text,false,,2741,0,11,12,http://localhost:3000/,0,0,4103
+1753649257276,4105,Main Bundle,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Light Load 1-10,text,false,,2741,0,1,12,http://localhost:3000/static/js/main.js,0,0,4105
+1753649257913,4111,Main Bundle,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Moderate Load 2-24,text,false,,2741,0,12,12,http://localhost:3000/static/js/main.js,0,0,4111
+1753649258130,4093,API - Products,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Moderate Load 2-28,text,false,,2741,0,11,11,http://localhost:3000/api/products,0,0,4093
+1753649258319,4090,Homepage,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Moderate Load 2-32,text,false,,2741,0,11,11,http://localhost:3000/,0,0,4090
+1753649259095,4091,Main Bundle,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Moderate Load 2-25,text,false,,2741,0,12,12,http://localhost:3000/static/js/main.js,0,0,4091
+1753649259314,4092,API - Products,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Moderate Load 2-29,text,false,,2741,0,11,11,http://localhost:3000/api/products,0,0,4092
+1753649259503,4104,Homepage,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Moderate Load 2-33,text,false,,2741,0,11,11,http://localhost:3000/,0,0,4104
+1753649260309,4089,Main Bundle,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Moderate Load 2-26,text,false,,2741,0,12,12,http://localhost:3000/static/js/main.js,0,0,4089
+1753649260500,4101,API - Products,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Moderate Load 2-30,text,false,,2741,0,11,11,http://localhost:3000/api/products,0,0,4100
+1753649260713,4089,Homepage,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Moderate Load 2-34,text,false,,2741,0,11,11,http://localhost:3000/,0,0,4089
+1753649261509,4101,Main Bundle,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Moderate Load 2-27,text,false,,2741,0,12,12,http://localhost:3000/static/js/main.js,0,0,4101
+1753649261710,4102,API - Products,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Moderate Load 2-31,text,false,,2741,0,11,11,http://localhost:3000/api/products,0,0,4102
+1753649261913,4099,Homepage,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Moderate Load 2-35,text,false,,2741,0,11,11,http://localhost:3000/,0,0,4099
+1753649262723,4098,Main Bundle,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Moderate Load 2-28,text,false,,2741,0,12,12,http://localhost:3000/static/js/main.js,0,0,4098
+1753649262910,4096,API - Products,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Moderate Load 2-32,text,false,,2741,0,11,11,http://localhost:3000/api/products,0,0,4096
+1753649263109,4100,Homepage,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Moderate Load 2-36,text,false,,2741,0,11,11,http://localhost:3000/,0,0,4099
+1753649263906,4093,Main Bundle,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Moderate Load 2-29,text,false,,2741,0,12,12,http://localhost:3000/static/js/main.js,0,0,4093
+1753649264108,4096,API - Products,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Moderate Load 2-33,text,false,,2741,0,11,11,http://localhost:3000/api/products,0,0,4096
+1753649264307,4099,Homepage,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Moderate Load 2-37,text,false,,2741,0,11,11,http://localhost:3000/,0,0,4099
+1753649265113,4102,Main Bundle,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Moderate Load 2-30,text,false,,2741,0,12,12,http://localhost:3000/static/js/main.js,0,0,4102
+1753649265315,4102,API - Products,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Moderate Load 2-34,text,false,,2741,0,11,11,http://localhost:3000/api/products,0,0,4102
+1753649265501,4101,Homepage,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Moderate Load 2-38,text,false,,2741,0,11,11,http://localhost:3000/,0,0,4101
+1753649266323,4105,Main Bundle,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Moderate Load 2-31,text,false,,2741,0,12,12,http://localhost:3000/static/js/main.js,0,0,4105
+1753649266512,4089,API - Products,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Moderate Load 2-35,text,false,,2741,0,11,11,http://localhost:3000/api/products,0,0,4089
+1753649266713,4089,Homepage,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Moderate Load 2-39,text,false,,2741,0,11,11,http://localhost:3000/,0,0,4089
+1753649267506,4101,Main Bundle,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Moderate Load 2-32,text,false,,2741,0,12,12,http://localhost:3000/static/js/main.js,0,0,4101
+1753649267710,4097,API - Products,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Moderate Load 2-36,text,false,,2741,0,11,11,http://localhost:3000/api/products,0,0,4097
+1753649267909,4099,Homepage,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Moderate Load 2-40,text,false,,2741,0,11,11,http://localhost:3000/,0,0,4099
+1753649268705,4092,Main Bundle,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Moderate Load 2-33,text,false,,2741,0,12,12,http://localhost:3000/static/js/main.js,0,0,4092
+1753649268906,4081,API - Products,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Moderate Load 2-37,text,false,,2741,0,11,11,http://localhost:3000/api/products,0,0,4081
+1753649269107,4082,Homepage,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Moderate Load 2-41,text,false,,2741,0,11,11,http://localhost:3000/,0,0,4082
+1753649269917,4083,Main Bundle,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Moderate Load 2-34,text,false,,2741,0,12,12,http://localhost:3000/static/js/main.js,0,0,4083
+1753649270103,4072,API - Products,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Moderate Load 2-38,text,false,,2741,0,11,11,http://localhost:3000/api/products,0,0,4072
+1753649270305,4073,Homepage,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Moderate Load 2-42,text,false,,2741,0,11,11,http://localhost:3000/,0,0,4073
+1753649271112,4063,Main Bundle,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Moderate Load 2-35,text,false,,2741,0,12,12,http://localhost:3000/static/js/main.js,0,0,4063
+1753649271312,4066,API - Products,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Moderate Load 2-39,text,false,,2741,0,11,11,http://localhost:3000/api/products,0,0,4066
+1753649271514,4068,Homepage,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Moderate Load 2-43,text,false,,2741,0,11,11,http://localhost:3000/,0,0,4068
+1753649272316,4076,Main Bundle,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Moderate Load 2-36,text,false,,2741,0,12,12,http://localhost:3000/static/js/main.js,0,0,4076
+1753649272509,4069,API - Products,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Moderate Load 2-40,text,false,,2741,0,11,11,http://localhost:3000/api/products,0,0,4068
+1753649272703,4078,Homepage,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Moderate Load 2-44,text,false,,2741,0,11,11,http://localhost:3000/,0,0,4078
+1753649273487,4089,Main Bundle,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Moderate Load 2-37,text,false,,2741,0,12,12,http://localhost:3000/static/js/main.js,0,0,4089
+1753649273690,4056,API - Products,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Moderate Load 2-41,text,false,,2741,0,11,11,http://localhost:3000/api/products,0,0,4056
+1753649273907,4074,Homepage,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Moderate Load 2-45,text,false,,2741,0,11,11,http://localhost:3000/,0,0,4074
+1753649274676,4073,Main Bundle,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Moderate Load 2-38,text,false,,2741,0,12,12,http://localhost:3000/static/js/main.js,0,0,4073
+1753649274879,4075,API - Products,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Moderate Load 2-42,text,false,,2741,0,11,11,http://localhost:3000/api/products,0,0,4075
+1753649275113,4063,Homepage,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Moderate Load 2-46,text,false,,2741,0,11,11,http://localhost:3000/,0,0,4062
+1753649275879,4076,Main Bundle,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Moderate Load 2-39,text,false,,2741,0,12,12,http://localhost:3000/static/js/main.js,0,0,4076
+1753649276082,4044,API - Products,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Moderate Load 2-43,text,false,,2741,0,11,11,http://localhost:3000/api/products,0,0,4044
+1753649276315,4089,Homepage,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Moderate Load 2-47,text,false,,2741,0,11,11,http://localhost:3000/,0,0,4089
+1753649277080,4059,Main Bundle,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Moderate Load 2-40,text,false,,2741,0,11,11,http://localhost:3000/static/js/main.js,0,0,4059
+1753649277282,4073,API - Products,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Moderate Load 2-44,text,false,,2741,0,10,10,http://localhost:3000/api/products,0,0,4073
+1753649277514,4075,Homepage,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Moderate Load 2-48,text,false,,2741,0,10,10,http://localhost:3000/,0,0,4075
+1753649278251,4098,Main Bundle,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Moderate Load 2-41,text,false,,2741,0,10,10,http://localhost:3000/static/js/main.js,0,0,4098
+1753649278481,4084,API - Products,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Moderate Load 2-45,text,false,,2741,0,9,9,http://localhost:3000/api/products,0,0,4084
+1753649278702,4097,Homepage,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Moderate Load 2-49,text,false,,2741,0,9,9,http://localhost:3000/,0,0,4097
+1753649279454,4092,Main Bundle,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Moderate Load 2-42,text,false,,2741,0,9,9,http://localhost:3000/static/js/main.js,0,0,4092
+1753649279676,4073,API - Products,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Moderate Load 2-46,text,false,,2741,0,8,8,http://localhost:3000/api/products,0,0,4073
+1753649279909,4074,Homepage,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Moderate Load 2-50,text,false,,2741,0,8,8,http://localhost:3000/,0,0,4074
+1753649280636,4087,Main Bundle,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Moderate Load 2-43,text,false,,2741,0,8,8,http://localhost:3000/static/js/main.js,0,0,4087
+1753649280906,4084,API - Products,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Moderate Load 2-47,text,false,,2741,0,7,7,http://localhost:3000/api/products,0,0,4084
+1753649281870,4062,Main Bundle,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Moderate Load 2-44,text,false,,2741,0,7,7,http://localhost:3000/static/js/main.js,0,0,4062
+1753649282102,4077,API - Products,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Moderate Load 2-48,text,false,,2741,0,6,6,http://localhost:3000/api/products,0,0,4077
+1753649283079,4091,Main Bundle,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Moderate Load 2-45,text,false,,2741,0,6,6,http://localhost:3000/static/js/main.js,0,0,4091
+1753649283311,4075,API - Products,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Moderate Load 2-49,text,false,,2741,0,5,5,http://localhost:3000/api/products,0,0,4075
+1753649284249,4078,Main Bundle,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Moderate Load 2-46,text,false,,2741,0,5,5,http://localhost:3000/static/js/main.js,0,0,4078
+1753649284489,4071,API - Products,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Moderate Load 2-50,text,false,,2741,0,4,4,http://localhost:3000/api/products,0,0,4071
+1753649285500,4080,Main Bundle,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Moderate Load 2-47,text,false,,2741,0,4,4,http://localhost:3000/static/js/main.js,0,0,4080
+1753649286693,4081,Main Bundle,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Moderate Load 2-48,text,false,,2741,0,3,3,http://localhost:3000/static/js/main.js,0,0,4081
+1753649287896,4073,Main Bundle,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Moderate Load 2-49,text,false,,2741,0,2,2,http://localhost:3000/static/js/main.js,0,0,4073
+1753649289072,4091,Main Bundle,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Moderate Load 2-50,text,false,,2741,0,1,1,http://localhost:3000/static/js/main.js,0,0,4091
+1753649349773,4283,Homepage,200,OK,Moderate Load 2-3,text,true,,16543,119,6,9,http://localhost:3000/,4228,0,1
+1753649348587,5465,Homepage,200,OK,Moderate Load 2-2,text,true,,16543,119,6,9,http://localhost:3000/,5414,0,1
+1753649347517,6528,Homepage,200,OK,Light Load 1-1,text,true,,16598,119,3,9,http://localhost:3000/,6482,0,43
+1753649350362,3698,Homepage,200,OK,Light Load 1-2,text,true,,16543,119,3,9,http://localhost:3000/,3639,0,1
+1753649350986,3078,Homepage,200,OK,Moderate Load 2-4,text,true,,16543,119,6,9,http://localhost:3000/,3015,0,1
+1753649352193,1878,Homepage,200,OK,Moderate Load 2-5,text,true,,16543,119,7,10,http://localhost:3000/,1811,0,1
+1753649347517,6555,Homepage,200,OK,Moderate Load 2-1,text,true,,16543,119,7,10,http://localhost:3000/,6488,0,43
+1753649353379,819,Homepage,200,OK,Moderate Load 2-6,text,true,,16543,119,7,10,http://localhost:3000/,807,0,1
+1753649353358,843,Homepage,200,OK,Light Load 1-3,text,true,,16543,119,3,10,http://localhost:3000/,830,0,1
+1753649354584,4279,Homepage,200,OK,Moderate Load 2-7,text,true,,16598,119,10,15,http://localhost:3000/,4249,0,2
+1753649355771,3098,Homepage,200,OK,Moderate Load 2-8,text,true,,16543,119,10,15,http://localhost:3000/,3064,0,1
+1753649356361,2512,Homepage,200,OK,Light Load 1-4,text,true,,16543,119,5,16,http://localhost:3000/,2475,0,2
+1753649356986,1892,Homepage,200,OK,Moderate Load 2-9,text,true,,16543,119,11,16,http://localhost:3000/,1852,0,1
+1753649358178,774,Homepage,200,OK,Moderate Load 2-10,text,true,,16543,119,11,16,http://localhost:3000/,769,0,2
+1753649359358,83,Homepage,200,OK,Light Load 1-5,text,true,,16543,119,5,16,http://localhost:3000/,76,0,1
+1753649354560,4961,API - Products,500,Internal Server Error,Light Load 1-2,text,false,,316,131,5,16,http://localhost:3000/api/products,4961,0,0
+1753649354583,4941,API - Products,500,Internal Server Error,Moderate Load 2-1,text,false,,316,131,11,16,http://localhost:3000/api/products,4941,0,0
+1753649359377,155,Homepage,200,OK,Moderate Load 2-11,text,true,,16543,119,11,16,http://localhost:3000/,149,0,1
+1753649360029,676,Main Bundle,404,Not Found,Light Load 1-2,text,false,,14703,136,5,17,http://localhost:3000/static/js/main.js,670,0,0
+1753649360029,682,Main Bundle,404,Not Found,Moderate Load 2-1,text,false,,14703,136,12,16,http://localhost:3000/static/js/main.js,672,0,0
+1753649360593,225,Homepage,200,OK,Moderate Load 2-12,text,true,,16598,119,11,15,http://localhost:3000/,214,0,1
+1753649361773,76,Homepage,200,OK,Moderate Load 2-13,text,true,,16543,119,12,16,http://localhost:3000/,64,0,1
+1753649362366,82,Homepage,200,OK,Light Load 1-6,text,true,,16543,119,5,17,http://localhost:3000/,76,0,1
+1753649362971,65,Homepage,200,OK,Moderate Load 2-14,text,true,,16543,119,13,18,http://localhost:3000/,59,0,1
+1753649364194,66,Homepage,200,OK,Moderate Load 2-15,text,true,,16543,119,14,19,http://localhost:3000/,60,0,2
+1753649365359,70,Homepage,200,OK,Light Load 1-7,text,true,,16543,119,6,21,http://localhost:3000/,63,0,2
+1753649365373,120,Homepage,200,OK,Moderate Load 2-16,text,true,,16543,119,15,21,http://localhost:3000/,114,0,0
+1753649366585,65,Homepage,200,OK,Moderate Load 2-17,text,true,,16543,119,16,22,http://localhost:3000/,59,0,1
+1753649367771,69,Homepage,200,OK,Moderate Load 2-18,text,true,,16543,119,17,23,http://localhost:3000/,63,0,1
+1753649368373,80,Homepage,200,OK,Light Load 1-8,text,true,,16543,119,7,24,http://localhost:3000/,73,0,1
+1753649368982,66,Homepage,200,OK,Moderate Load 2-19,text,true,,16543,119,18,25,http://localhost:3000/,60,0,0
+1753649359376,10130,API - Products,500,Internal Server Error,Light Load 1-4,text,false,,316,131,7,25,http://localhost:3000/api/products,10130,0,0
+1753649354708,14803,API - Products,500,Internal Server Error,Light Load 1-3,text,false,,316,131,7,25,http://localhost:3000/api/products,14803,0,0
+1753649354708,14806,API - Products,500,Internal Server Error,Moderate Load 2-6,text,false,,316,131,18,25,http://localhost:3000/api/products,14806,0,0
+1753649354563,14953,API - Products,500,Internal Server Error,Moderate Load 2-4,text,false,,316,131,18,25,http://localhost:3000/api/products,14953,0,0
+1753649354583,14936,API - Products,500,Internal Server Error,Moderate Load 2-5,text,false,,316,131,18,25,http://localhost:3000/api/products,14935,0,0
+1753649354561,14960,API - Products,500,Internal Server Error,Moderate Load 2-2,text,false,,316,131,18,25,http://localhost:3000/api/products,14960,0,0
+1753649359376,10148,API - Products,500,Internal Server Error,Moderate Load 2-8,text,false,,316,131,18,25,http://localhost:3000/api/products,10147,0,0
+1753649354560,14966,API - Products,500,Internal Server Error,Light Load 1-1,text,false,,316,131,7,25,http://localhost:3000/api/products,14966,0,0
+1753649354560,14969,API - Products,500,Internal Server Error,Moderate Load 2-3,text,false,,316,131,18,25,http://localhost:3000/api/products,14969,0,0
+1753649359391,10140,API - Products,500,Internal Server Error,Moderate Load 2-9,text,false,,316,131,18,25,http://localhost:3000/api/products,10140,0,0
+1753649359951,9583,API - Products,500,Internal Server Error,Light Load 1-5,text,false,,316,131,7,25,http://localhost:3000/api/products,9582,0,0
+1753649359364,10172,API - Products,500,Internal Server Error,Moderate Load 2-7,text,false,,316,131,18,25,http://localhost:3000/api/products,10172,0,0
+1753649370006,64,Main Bundle,404,Not Found,Light Load 1-4,text,false,,14703,136,7,26,http://localhost:3000/static/js/main.js,61,0,0
+1753649370011,117,Main Bundle,404,Not Found,Light Load 1-3,text,false,,14703,136,6,25,http://localhost:3000/static/js/main.js,113,0,0
+1753649370014,175,Main Bundle,404,Not Found,Moderate Load 2-6,text,false,,14703,136,19,24,http://localhost:3000/static/js/main.js,172,0,0
+1753649370016,221,Main Bundle,404,Not Found,Moderate Load 2-4,text,false,,14703,136,18,23,http://localhost:3000/static/js/main.js,216,0,0
+1753649370019,558,Main Bundle,404,Not Found,Moderate Load 2-5,text,false,,14703,136,17,22,http://localhost:3000/static/js/main.js,541,0,0
+1753649370021,560,Main Bundle,404,Not Found,Moderate Load 2-2,text,false,,14703,136,16,21,http://localhost:3000/static/js/main.js,541,0,0
+1753649370023,562,Main Bundle,404,Not Found,Moderate Load 2-8,text,false,,14703,136,15,20,http://localhost:3000/static/js/main.js,540,0,0
+1753649370030,560,Main Bundle,404,Not Found,Moderate Load 2-3,text,false,,14703,136,14,19,http://localhost:3000/static/js/main.js,535,0,0
+1753649370025,569,Main Bundle,404,Not Found,Light Load 1-1,text,false,,14703,136,5,18,http://localhost:3000/static/js/main.js,542,0,0
+1753649370032,566,Main Bundle,404,Not Found,Moderate Load 2-9,text,false,,14703,136,13,17,http://localhost:3000/static/js/main.js,537,0,0
+1753649370033,569,Main Bundle,404,Not Found,Light Load 1-5,text,false,,14703,136,4,16,http://localhost:3000/static/js/main.js,537,0,0
+1753649370037,570,Main Bundle,404,Not Found,Moderate Load 2-7,text,false,,14703,136,12,15,http://localhost:3000/static/js/main.js,535,0,0
+1753649370187,501,Homepage,200,OK,Moderate Load 2-20,text,true,,16543,119,11,14,http://localhost:3000/,491,0,1
+1753649371359,85,Homepage,200,OK,Light Load 1-9,text,true,,16543,119,4,16,http://localhost:3000/,78,0,0
+1753649371381,146,Homepage,200,OK,Moderate Load 2-21,text,true,,16543,119,12,16,http://localhost:3000/,138,0,1
+1753649372586,70,Homepage,200,OK,Moderate Load 2-22,text,true,,16543,119,13,17,http://localhost:3000/,64,0,1
+1753649373773,85,Homepage,200,OK,Moderate Load 2-23,text,true,,16543,119,14,19,http://localhost:3000/,78,0,1
+1753649374363,100,Homepage,200,OK,Light Load 1-10,text,true,,16543,119,5,19,http://localhost:3000/,94,0,1
+1753649374986,65,Homepage,200,OK,Moderate Load 2-24,text,true,,16543,119,15,20,http://localhost:3000/,60,0,0
+1753649376184,72,Homepage,200,OK,Moderate Load 2-25,text,true,,16543,119,16,21,http://localhost:3000/,67,0,2
+1753649377381,72,Homepage,200,OK,Moderate Load 2-26,text,true,,16543,119,17,22,http://localhost:3000/,66,0,2
+1753649378573,73,Homepage,200,OK,Moderate Load 2-27,text,true,,16543,119,18,23,http://localhost:3000/,68,0,3
+1753649363540,15962,API - Products,500,Internal Server Error,Moderate Load 2-14,text,false,,316,131,19,24,http://localhost:3000/api/products,15961,0,0
+1753649359455,20050,API - Products,500,Internal Server Error,Moderate Load 2-10,text,false,,316,131,19,24,http://localhost:3000/api/products,20050,0,0
+1753649360044,19464,API - Products,500,Internal Server Error,Moderate Load 2-11,text,false,,316,131,19,24,http://localhost:3000/api/products,19464,0,0
+1753649361321,18190,API - Products,500,Internal Server Error,Moderate Load 2-12,text,false,,316,131,19,24,http://localhost:3000/api/products,18190,0,0
+1753649362949,16564,API - Products,500,Internal Server Error,Light Load 1-6,text,false,,316,131,5,24,http://localhost:3000/api/products,16564,0,0
+1753649373164,6352,API - Products,500,Internal Server Error,Moderate Load 2-22,text,false,,316,131,19,24,http://localhost:3000/api/products,6352,0,0
+1753649365931,13586,API - Products,500,Internal Server Error,Light Load 1-7,text,false,,316,131,5,24,http://localhost:3000/api/products,13586,0,0
+1753649368339,11180,API - Products,500,Internal Server Error,Moderate Load 2-18,text,false,,316,131,19,24,http://localhost:3000/api/products,11180,0,0
+1753649364760,14762,API - Products,500,Internal Server Error,Moderate Load 2-15,text,false,,316,131,19,24,http://localhost:3000/api/products,14761,0,0
+1753649366008,13516,API - Products,500,Internal Server Error,Moderate Load 2-16,text,false,,316,131,19,24,http://localhost:3000/api/products,13516,0,0
+1753649368954,10572,API - Products,500,Internal Server Error,Light Load 1-8,text,false,,316,131,5,24,http://localhost:3000/api/products,10572,0,0
+1753649367160,12369,API - Products,500,Internal Server Error,Moderate Load 2-17,text,false,,316,131,19,24,http://localhost:3000/api/products,12368,0,0
+1753649362350,17180,API - Products,500,Internal Server Error,Moderate Load 2-13,text,false,,316,131,19,24,http://localhost:3000/api/products,17180,0,0
+1753649379785,66,Homepage,200,OK,Moderate Load 2-28,text,true,,16543,119,19,24,http://localhost:3000/,61,0,1
+1753649380015,227,Main Bundle,404,Not Found,Moderate Load 2-11,text,false,,14703,136,19,24,http://localhost:3000/static/js/main.js,217,0,0
+1753649380015,230,Main Bundle,404,Not Found,Light Load 1-6,text,false,,14703,136,5,23,http://localhost:3000/static/js/main.js,218,0,0
+1753649380015,234,Main Bundle,404,Not Found,Moderate Load 2-10,text,false,,14703,136,18,22,http://localhost:3000/static/js/main.js,220,0,0
+1753649380015,238,Main Bundle,404,Not Found,Moderate Load 2-14,text,false,,14703,136,17,21,http://localhost:3000/static/js/main.js,221,0,0
+1753649380015,242,Main Bundle,404,Not Found,Moderate Load 2-12,text,false,,14703,136,16,20,http://localhost:3000/static/js/main.js,223,0,0
+1753649380030,518,Main Bundle,404,Not Found,Moderate Load 2-22,text,false,,14703,136,16,20,http://localhost:3000/static/js/main.js,506,0,0
+1753649380030,521,Main Bundle,404,Not Found,Light Load 1-8,text,false,,14703,136,4,19,http://localhost:3000/static/js/main.js,508,0,0
+1753649380030,524,Main Bundle,404,Not Found,Moderate Load 2-18,text,false,,14703,136,15,18,http://localhost:3000/static/js/main.js,509,0,0
+1753649380030,528,Main Bundle,404,Not Found,Light Load 1-7,text,false,,14703,136,3,17,http://localhost:3000/static/js/main.js,510,0,0
+1753649380030,532,Main Bundle,404,Not Found,Moderate Load 2-15,text,false,,14703,136,14,16,http://localhost:3000/static/js/main.js,512,0,0
+1753649380030,535,Main Bundle,404,Not Found,Moderate Load 2-16,text,false,,14703,136,13,15,http://localhost:3000/static/js/main.js,514,0,0
+1753649380031,539,Main Bundle,404,Not Found,Moderate Load 2-17,text,false,,14703,136,12,14,http://localhost:3000/static/js/main.js,514,0,0
+1753649380046,571,Main Bundle,404,Not Found,Moderate Load 2-13,text,false,,14703,136,11,13,http://localhost:3000/static/js/main.js,567,0,0
+1753649380977,66,Homepage,200,OK,Moderate Load 2-29,text,true,,16543,119,10,12,http://localhost:3000/,61,0,1
+1753649382182,62,Homepage,200,OK,Moderate Load 2-30,text,true,,16543,119,11,13,http://localhost:3000/,57,0,1
+1753649383374,72,Homepage,200,OK,Moderate Load 2-31,text,true,,16543,119,12,14,http://localhost:3000/,66,0,2
+1753649384583,70,Homepage,200,OK,Moderate Load 2-32,text,true,,16543,119,13,15,http://localhost:3000/,59,0,1
+1753649385779,85,Homepage,200,OK,Moderate Load 2-33,text,true,,16543,119,14,16,http://localhost:3000/,76,0,1
+1753649386976,68,Homepage,200,OK,Moderate Load 2-34,text,true,,16543,119,15,17,http://localhost:3000/,63,0,2
+1753649388186,65,Homepage,200,OK,Moderate Load 2-35,text,true,,16543,119,16,18,http://localhost:3000/,60,0,1
+1753649389376,83,Homepage,200,OK,Moderate Load 2-36,text,true,,16543,119,17,19,http://localhost:3000/,72,0,1
+1753649371958,17550,API - Products,500,Internal Server Error,Light Load 1-9,text,false,,316,131,2,19,http://localhost:3000/api/products,17550,0,0
+1753649379149,10365,API - Products,500,Internal Server Error,Moderate Load 2-27,text,false,,316,131,17,19,http://localhost:3000/api/products,10365,0,0
+1753649377966,11551,API - Products,500,Internal Server Error,Moderate Load 2-26,text,false,,316,131,17,19,http://localhost:3000/api/products,11551,0,0
+1753649371188,18332,API - Products,500,Internal Server Error,Moderate Load 2-20,text,false,,316,131,17,19,http://localhost:3000/api/products,18332,0,0
+1753649374963,14561,API - Products,500,Internal Server Error,Light Load 1-10,text,false,,316,131,2,19,http://localhost:3000/api/products,14561,0,0
+1753649381544,7984,API - Products,500,Internal Server Error,Moderate Load 2-29,text,false,,316,131,17,19,http://localhost:3000/api/products,7984,0,0
+1753649369548,19985,API - Products,500,Internal Server Error,Moderate Load 2-19,text,false,,316,131,17,19,http://localhost:3000/api/products,19984,0,0
+1753649374362,15176,API - Products,500,Internal Server Error,Moderate Load 2-23,text,false,,316,131,17,19,http://localhost:3000/api/products,15176,0,0
+1753649376756,12785,API - Products,500,Internal Server Error,Moderate Load 2-25,text,false,,316,131,17,19,http://localhost:3000/api/products,12785,0,0
+1753649372037,17507,API - Products,500,Internal Server Error,Moderate Load 2-21,text,false,,316,131,17,19,http://localhost:3000/api/products,17507,0,0
+1753649375551,13999,API - Products,500,Internal Server Error,Moderate Load 2-24,text,false,,316,131,17,19,http://localhost:3000/api/products,13999,0,0
+1753649383947,5605,API - Products,500,Internal Server Error,Moderate Load 2-31,text,false,,316,131,17,19,http://localhost:3000/api/products,5605,0,0
+1753649390010,72,Main Bundle,404,Not Found,Light Load 1-9,text,false,,14703,136,2,20,http://localhost:3000/static/js/main.js,65,0,0
+1753649390014,131,Main Bundle,404,Not Found,Moderate Load 2-27,text,false,,14703,136,18,19,http://localhost:3000/static/js/main.js,124,0,0
+1753649390018,222,Main Bundle,404,Not Found,Moderate Load 2-26,text,false,,14703,136,17,18,http://localhost:3000/static/js/main.js,217,0,0
+1753649390021,223,Main Bundle,404,Not Found,Moderate Load 2-20,text,false,,14703,136,16,17,http://localhost:3000/static/js/main.js,216,0,0
+1753649390023,273,Main Bundle,404,Not Found,Light Load 1-10,text,false,,14703,136,1,16,http://localhost:3000/static/js/main.js,267,0,0
+1753649390034,578,Main Bundle,404,Not Found,Moderate Load 2-19,text,false,,14703,136,15,15,http://localhost:3000/static/js/main.js,564,0,0
+1753649390028,588,Main Bundle,404,Not Found,Moderate Load 2-29,text,false,,14703,136,14,14,http://localhost:3000/static/js/main.js,572,0,0
+1753649390041,579,Main Bundle,404,Not Found,Moderate Load 2-25,text,false,,14703,136,13,13,http://localhost:3000/static/js/main.js,561,0,0
+1753649390038,587,Main Bundle,404,Not Found,Moderate Load 2-23,text,false,,14703,136,12,12,http://localhost:3000/static/js/main.js,565,0,0
+1753649390045,586,Main Bundle,404,Not Found,Moderate Load 2-21,text,false,,14703,136,11,11,http://localhost:3000/static/js/main.js,560,0,0
+1753649390049,591,Main Bundle,404,Not Found,Moderate Load 2-24,text,false,,14703,136,10,10,http://localhost:3000/static/js/main.js,557,0,0
+1753649390053,592,Main Bundle,404,Not Found,Moderate Load 2-31,text,false,,14703,136,9,9,http://localhost:3000/static/js/main.js,555,0,0
+1753649390577,147,Homepage,200,OK,Moderate Load 2-37,text,true,,16543,119,8,8,http://localhost:3000/,140,0,1
+1753649391772,66,Homepage,200,OK,Moderate Load 2-38,text,true,,16543,119,9,9,http://localhost:3000/,61,0,1
+1753649392986,61,Homepage,200,OK,Moderate Load 2-39,text,true,,16543,119,10,10,http://localhost:3000/,56,0,1
+1753649394179,73,Homepage,200,OK,Moderate Load 2-40,text,true,,16543,119,11,11,http://localhost:3000/,65,0,1
+1753649395376,61,Homepage,200,OK,Moderate Load 2-41,text,true,,16543,119,12,12,http://localhost:3000/,56,0,1
+1753649396587,62,Homepage,200,OK,Moderate Load 2-42,text,true,,16543,119,13,13,http://localhost:3000/,57,0,1
+1753649397782,67,Homepage,200,OK,Moderate Load 2-43,text,true,,16543,119,14,14,http://localhost:3000/,59,0,1
+1753649398978,59,Homepage,200,OK,Moderate Load 2-44,text,true,,16543,119,15,15,http://localhost:3000/,54,0,1
+1753649382746,16776,API - Products,500,Internal Server Error,Moderate Load 2-30,text,false,,316,131,15,15,http://localhost:3000/api/products,16776,0,0
+1753649385157,14368,API - Products,500,Internal Server Error,Moderate Load 2-32,text,false,,316,131,15,15,http://localhost:3000/api/products,14368,0,0
+1753649380356,19172,API - Products,500,Internal Server Error,Moderate Load 2-28,text,false,,316,131,15,15,http://localhost:3000/api/products,19172,0,0
+1753649386370,13160,API - Products,500,Internal Server Error,Moderate Load 2-33,text,false,,316,131,15,15,http://localhost:3000/api/products,13160,0,0
+1753649392347,7185,API - Products,500,Internal Server Error,Moderate Load 2-38,text,false,,316,131,15,15,http://localhost:3000/api/products,7185,0,0
+1753649388751,10784,API - Products,500,Internal Server Error,Moderate Load 2-35,text,false,,316,131,15,15,http://localhost:3000/api/products,10784,0,0
+1753649387549,11989,API - Products,500,Internal Server Error,Moderate Load 2-34,text,false,,316,131,15,15,http://localhost:3000/api/products,11989,0,0
+1753649400022,56,Main Bundle,404,Not Found,Moderate Load 2-30,text,false,,14703,136,16,16,http://localhost:3000/static/js/main.js,50,0,0
+1753649400026,107,Main Bundle,404,Not Found,Moderate Load 2-32,text,false,,14703,136,15,15,http://localhost:3000/static/js/main.js,103,0,0
+1753649400031,201,Main Bundle,404,Not Found,Moderate Load 2-33,text,false,,14703,136,14,14,http://localhost:3000/static/js/main.js,191,0,0
+1753649400029,213,Main Bundle,404,Not Found,Moderate Load 2-28,text,false,,14703,136,13,13,http://localhost:3000/static/js/main.js,195,0,0
+1753649400036,389,Main Bundle,404,Not Found,Moderate Load 2-35,text,false,,14703,136,12,12,http://localhost:3000/static/js/main.js,382,0,0
+1753649400034,394,Main Bundle,404,Not Found,Moderate Load 2-38,text,false,,14703,136,11,11,http://localhost:3000/static/js/main.js,386,0,0
+1753649400041,391,Main Bundle,404,Not Found,Moderate Load 2-34,text,false,,14703,136,10,10,http://localhost:3000/static/js/main.js,380,0,0
+1753649400175,334,Homepage,200,OK,Moderate Load 2-45,text,true,,16543,119,9,9,http://localhost:3000/,325,0,1
+1753649401392,98,Homepage,200,OK,Moderate Load 2-46,text,true,,16543,119,10,10,http://localhost:3000/,89,0,1
+1753649402576,64,Homepage,200,OK,Moderate Load 2-47,text,true,,16543,119,11,11,http://localhost:3000/,60,0,1
+1753649403775,69,Homepage,200,OK,Moderate Load 2-48,text,true,,16543,119,12,12,http://localhost:3000/,64,0,1
+1753649404985,71,Homepage,200,OK,Moderate Load 2-49,text,true,,16543,119,13,13,http://localhost:3000/,66,0,1
+1753649406185,67,Homepage,200,OK,Moderate Load 2-50,text,true,,16543,119,14,14,http://localhost:3000/,58,0,1
+1753649395937,13586,API - Products,500,Internal Server Error,Moderate Load 2-41,text,false,,316,131,14,14,http://localhost:3000/api/products,13586,0,0
+1753649389959,19566,API - Products,500,Internal Server Error,Moderate Load 2-36,text,false,,316,131,14,14,http://localhost:3000/api/products,19566,0,0
+1753649397162,12367,API - Products,500,Internal Server Error,Moderate Load 2-42,text,false,,316,131,14,14,http://localhost:3000/api/products,12367,0,0
+1753649391228,18303,API - Products,500,Internal Server Error,Moderate Load 2-37,text,false,,316,131,14,14,http://localhost:3000/api/products,18303,0,0
+1753649406759,2774,API - Products,500,Internal Server Error,Moderate Load 2-50,text,false,,316,131,14,14,http://localhost:3000/api/products,2774,0,0
+1753649398356,11181,API - Products,500,Internal Server Error,Moderate Load 2-43,text,false,,316,131,14,14,http://localhost:3000/api/products,11180,0,0
+1753649394752,14787,API - Products,500,Internal Server Error,Moderate Load 2-40,text,false,,316,131,14,14,http://localhost:3000/api/products,14787,0,0
+1753649393558,15985,API - Products,500,Internal Server Error,Moderate Load 2-39,text,false,,316,131,14,14,http://localhost:3000/api/products,15985,0,0
+1753649401991,7555,API - Products,500,Internal Server Error,Moderate Load 2-46,text,false,,316,131,14,14,http://localhost:3000/api/products,7555,0,0
+1753649410026,69,Main Bundle,404,Not Found,Moderate Load 2-41,text,false,,14703,136,14,14,http://localhost:3000/static/js/main.js,60,0,0
+1753649410041,482,Main Bundle,404,Not Found,Moderate Load 2-36,text,false,,14703,136,13,13,http://localhost:3000/static/js/main.js,464,0,0
+1753649410041,486,Main Bundle,404,Not Found,Moderate Load 2-40,text,false,,14703,136,12,12,http://localhost:3000/static/js/main.js,466,0,0
+1753649410041,491,Main Bundle,404,Not Found,Moderate Load 2-50,text,false,,14703,136,11,11,http://localhost:3000/static/js/main.js,469,0,0
+1753649410041,495,Main Bundle,404,Not Found,Moderate Load 2-42,text,false,,14703,136,10,10,http://localhost:3000/static/js/main.js,471,0,0
+1753649410041,499,Main Bundle,404,Not Found,Moderate Load 2-37,text,false,,14703,136,9,9,http://localhost:3000/static/js/main.js,473,0,0
+1753649410041,505,Main Bundle,404,Not Found,Moderate Load 2-43,text,false,,14703,136,8,8,http://localhost:3000/static/js/main.js,475,0,0
+1753649410056,498,Main Bundle,404,Not Found,Moderate Load 2-46,text,false,,14703,136,7,7,http://localhost:3000/static/js/main.js,461,0,0
+1753649410056,504,Main Bundle,404,Not Found,Moderate Load 2-39,text,false,,14703,136,6,6,http://localhost:3000/static/js/main.js,463,0,0
+1753649404351,15208,API - Products,500,Internal Server Error,Moderate Load 2-48,text,false,,316,131,5,5,http://localhost:3000/api/products,15208,0,0
+1753649399538,20024,API - Products,500,Internal Server Error,Moderate Load 2-44,text,false,,316,131,5,5,http://localhost:3000/api/products,20024,0,0
+1753649405560,14004,API - Products,500,Internal Server Error,Moderate Load 2-49,text,false,,316,131,5,5,http://localhost:3000/api/products,14004,0,0
+1753649401015,18552,API - Products,500,Internal Server Error,Moderate Load 2-45,text,false,,316,131,5,5,http://localhost:3000/api/products,18552,0,0
+1753649403153,16415,API - Products,500,Internal Server Error,Moderate Load 2-47,text,false,,316,131,5,5,http://localhost:3000/api/products,16415,0,0
+1753649420074,242,Main Bundle,404,Not Found,Moderate Load 2-47,text,false,,14703,136,5,5,http://localhost:3000/static/js/main.js,195,0,0
+1753649420074,258,Main Bundle,404,Not Found,Moderate Load 2-45,text,false,,14703,136,4,4,http://localhost:3000/static/js/main.js,196,0,0
+1753649420074,273,Main Bundle,404,Not Found,Moderate Load 2-48,text,false,,14703,136,3,3,http://localhost:3000/static/js/main.js,197,0,0
+1753649420074,288,Main Bundle,404,Not Found,Moderate Load 2-49,text,false,,14703,136,2,2,http://localhost:3000/static/js/main.js,199,0,0
+1753649420074,298,Main Bundle,404,Not Found,Moderate Load 2-44,text,false,,14703,136,1,1,http://localhost:3000/static/js/main.js,201,0,0
